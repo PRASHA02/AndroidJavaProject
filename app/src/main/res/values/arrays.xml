@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tax_slab_list_array" >
+    <item>28%</item>
+    <item>18%</item>
+    <item>12%</item>
+    <item>5%</item>
+        <item>0%</item>
+
+</string-array>
+</resources>
